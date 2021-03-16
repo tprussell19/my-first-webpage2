@@ -25,3 +25,11 @@ ul {
   line-height: 30px;
   font-style: bold;
 }
+
+.location-item {
+  color: yellow;
+}
+
+img.location-item {
+  width: 360px;
+}
