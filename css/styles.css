@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+  
 h1 {
   color: red;
   text-align: center;
@@ -9,10 +13,15 @@ h2 {
 }
 
 p {
-  font-family: sans-serif;
+  font-family: serif;
+  color: white;
+  text-align: left;
+  font-size: 12px;
+  line-height: 24px;
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
+  font-style: bold;
 }
